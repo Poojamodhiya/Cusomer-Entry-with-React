@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form {
+  margin: 40px;
+}
+h1 {
+  box-shadow: 2px 2px 8px 2px green;
+}
+
+input,
+button {
+  margin-right: 7px;
+  border-radius: 10px;
+  padding: 8px;
+  border: 2px solid rgb(187, 186, 186);
+  outline: 0;
+  /* box-shadow: 1px 1px 8px 2px rgb(187 186 186); */
+}
+
+button {
+  padding: 9px 14px;
+}
+table {
+  border: 2px solid rgb(187, 186, 186);
+}
